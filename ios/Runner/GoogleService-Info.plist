@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>346069253034-siapn05g31l7safu0te6epfq5e4qpsnp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.346069253034-siapn05g31l7safu0te6epfq5e4qpsnp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>346069253034-18stq0scq80m7n2qeqlq9j5s6nfi90oi.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4yxPqAxu9pAwuEUqdCtKQjVCEGENC-hg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>346069253034</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.stanleylab97.businet</string>
+	<key>PROJECT_ID</key>
+	<string>africa-businet</string>
+	<key>STORAGE_BUCKET</key>
+	<string>africa-businet.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:346069253034:ios:a3e379d10698765a3209d3</string>
+	<key>DATABASE_URL</key>
+	<string>https://africa-businet-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
